@@ -1,0 +1,6 @@
+/.vs/*
+*.sln
+/Calculator/*
+!/Calculator/MainWindow.xaml
+!/Calculator/MainWindow.xaml.cs
+
